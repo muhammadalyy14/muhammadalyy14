@@ -9,7 +9,7 @@
 - 📫 How to reach me: ali_muhammad14@outlook.com | [LinkedIn](https://www.linkedin.com/in/muhammad-ali-8990b3163/)
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,c,matlab,mysql,postgresql" /><br>
-    <img src="https://skillicons.dev/icons?i=flask,django,mongodb,tensorflow,pytorch,sklearn" /><br>
-    <img src="https://skillicons.dev/icons?i=bash,docker,jenkins,github,gitlab,anaconda" /><br>
+    <img src="https://skillicons.dev/icons?i=python,cmysql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,tensorflow,pytorch,sklearn" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,docker,github,gitlab,anaconda" /><br>
 </div>
